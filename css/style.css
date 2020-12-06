@@ -1,0 +1,28 @@
+h1{
+	margin: 50px 0;
+	text-transform: capitalize;
+}
+.progress{
+	margin-bottom: 20px;
+}
+.accordion{
+	margin:0 auto;
+	width:50%;
+}
+.text h1{
+	text-align: center;
+	color: blue;
+
+}
+.btn-group{
+	margin-bottom: 10px;
+	margin-left:10px;
+}
+.card{
+    float: left;
+    margin: 0px 18px;
+	box-shadow: 0px 10px 13px -7px #000000, 2px 16px 16px 12px rgba(0,0,0,0.26);
+}
+.clearfix{
+	margin-bottom: 30px;
+}
